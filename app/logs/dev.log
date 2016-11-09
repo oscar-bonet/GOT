@@ -1,0 +1,2 @@
+[2016-10-13 13:34:09] php.DEBUG: unlink(web/bundles/framework): No such file or directory {"type":2,"file":"C:\\xampp\\htdocs\\symblog\\vendor\\symfony\\symfony\\src\\Symfony\\Component\\Filesystem\\Filesystem.php","line":178,"level":28928} []
+[2016-10-13 13:34:09] php.DEBUG: symlink(): Could not fetch file information(error 3) {"type":2,"file":"C:\\xampp\\htdocs\\symblog\\vendor\\symfony\\symfony\\src\\Symfony\\Component\\Filesystem\\Filesystem.php","line":334,"level":28928} []
